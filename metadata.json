@@ -1,0 +1,10 @@
+{
+  "name": "TomTom ChargeBook",
+  "description": "Specialized Mini TomTom electric auto-rickshaw charging garage accounting and backup management app",
+  "requestFramePermissions": [
+    "android.permission.CAMERA",
+    "android.permission.RECORD_AUDIO"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
